@@ -23,7 +23,7 @@ class Login extends Component {
 
     fire
       .auth()
-      .signInWithEmailAndPassword(email, password)
+      .createUserWithEmailAndPassword(email, password)
       .then((u) => {
         console.log("success");
       })
