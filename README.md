@@ -1,1 +1,1 @@
-# ReactWithFirebaseAuth
+# FirebaseAuthWithReact
